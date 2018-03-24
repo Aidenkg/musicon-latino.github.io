@@ -1,3 +1,4 @@
 name: Musicon Latino
 markdown: kramdown
 theme: jekyll-theme-time-machine
+permalink: /blog/:year/:month/:day/:title
